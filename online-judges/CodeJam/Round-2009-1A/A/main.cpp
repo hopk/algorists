@@ -4,6 +4,8 @@
  * Date: 05/03/2018
  * URL: https://code.google.com/codejam/contest/188266/dashboard#s=p0&a=1
  * Solved by: hopkins
+ *
+ * Note: The solution should be optimized
  */
 
 using namespace std;
